@@ -1,0 +1,55 @@
+body{
+    background-image: url(images/abspat3.jpg);
+    background-size: cover;
+}
+
+a{
+    color: whitesmoke;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px gray;
+    font-size: 20px;
+    margin-right: 40px;
+    
+}
+a:hover {
+    color: rgba(68, 180, 168, 1);
+  }
+#half
+{
+    height: 100vh;
+    width: 70%;
+    background-color:rgb(41, 39,39) ;
+}
+h1{
+    text-align: left;
+    margin-left: 10%;
+    position: relative;
+    top: 20vh;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4.8vw;
+}
+hr{
+    color:  rgba(68, 180, 168, 1);  
+    width:40%;
+    position: relative; 
+    opacity: 1;
+    top:20vh;
+    margin-top: 5px;
+    margin-left: 10%;
+}
+h2{
+text-align: left;
+font-family: 'Montserrat Alternates', sans-serif;
+margin-left: 10%;
+margin-right: 10%;
+position: relative;
+top: 20vh;
+color: whitesmoke;
+font-style: normal;
+font-weight: normal;
+font-size: 2.5vw;
+}

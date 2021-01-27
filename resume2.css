@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(41, 39,39);
+}
+
+a{
+    color: whitesmoke;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px gray;
+    font-size: 20px;
+    margin-right: 40px;
+    margin-left: 30px;
+    margin-top: 5px;
+    
+}
+a:hover {
+    color: hotpink;
+  }
+
+#head
+{
+  margin-top: 3%;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4rem;
+}
+h2{
+    padding-inline: 20%;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+
+
+}
+ul{
+    padding-inline: 20%;
+    color: whitesmoke;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.2rem;
+
+}
